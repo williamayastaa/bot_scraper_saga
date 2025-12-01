@@ -4,12 +4,12 @@ Bot automatizado para extraer información de productos desde Falabella.com.pe y
 
 ##  Características
 
-- ✅ Web scraping con Selenium
-- ✅ Paginación automática
-- ✅ Almacenamiento en Oracle DB
-- ✅ Exportación a Excel
-- ✅ Sistema de logs
-- ✅ Manejo de errores robusto
+-  Web scraping con Selenium
+-  Paginación automática
+-  Almacenamiento en Oracle DB
+-  Exportación a Excel
+-  Sistema de logs
+-  Manejo de errores robusto
 
 ##  Requisitos
 
