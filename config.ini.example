@@ -1,0 +1,15 @@
+[DATABASE]
+user = SYSTEM
+password = tu_password_aqui
+host = localhost
+port = 1521
+service_name = xepdb1
+
+[SCRAPER]
+url = https://www.falabella.com.pe/falabella-pe
+timeout = 10
+headless = false
+
+[PATHS]
+output_dir = data
+log_dir = logs
