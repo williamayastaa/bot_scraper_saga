@@ -1,8 +1,8 @@
-# 🤖 Bot Scraper Falabella
+#  Bot Scraper Falabella
 
 Bot automatizado para extraer información de productos desde Falabella.com.pe y almacenarla en Oracle Database.
 
-## 🚀 Características
+##  Características
 
 - ✅ Web scraping con Selenium
 - ✅ Paginación automática
@@ -11,13 +11,13 @@ Bot automatizado para extraer información de productos desde Falabella.com.pe y
 - ✅ Sistema de logs
 - ✅ Manejo de errores robusto
 
-## 📋 Requisitos
+##  Requisitos
 
 - Python 3.8+
 - Chrome/Chromium instalado
 - Oracle Database 11g+
 
-## 🔧 Instalación
+##  Instalación
 
 1. Instalar dependencias:
 ```bash
@@ -30,7 +30,7 @@ cp config.ini.example config.ini
 # Editar config.ini con tus credenciales
 ```
 
-## 🎯 Uso
+##  Uso
 
 ```bash
 python src/main.py
@@ -38,7 +38,7 @@ python src/main.py
 
 El bot te pedirá el nombre del producto a buscar.
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 - `src/scraper/` - Lógica de web scraping
 - `src/database/` - Gestión de base de datos
@@ -47,7 +47,7 @@ El bot te pedirá el nombre del producto a buscar.
 - `data/` - Archivos Excel generados
 - `logs/` - Registros de ejecución
 
-## 🤝 Contribuir
+##  Contribuir
 
 Las contribuciones son bienvenidas. Por favor abre un issue primero.
 
